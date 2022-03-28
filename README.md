@@ -1,4 +1,4 @@
-# eager
+# Movie_Info_App
 
 A new Flutter project.
 
